@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Adesiyan_Ayodapo/static/css/main.db6f0745.chunk.css",
+    "main.js": "/Adesiyan_Ayodapo/static/js/main.6f81f6f1.chunk.js",
+    "main.js.map": "/Adesiyan_Ayodapo/static/js/main.6f81f6f1.chunk.js.map",
+    "runtime-main.js": "/Adesiyan_Ayodapo/static/js/runtime-main.1f79b4db.js",
+    "runtime-main.js.map": "/Adesiyan_Ayodapo/static/js/runtime-main.1f79b4db.js.map",
+    "static/css/2.d64471e2.chunk.css": "/Adesiyan_Ayodapo/static/css/2.d64471e2.chunk.css",
+    "static/js/2.8b9fcb0d.chunk.js": "/Adesiyan_Ayodapo/static/js/2.8b9fcb0d.chunk.js",
+    "static/js/2.8b9fcb0d.chunk.js.map": "/Adesiyan_Ayodapo/static/js/2.8b9fcb0d.chunk.js.map",
+    "index.html": "/Adesiyan_Ayodapo/index.html",
+    "precache-manifest.e0057561a07a84382e5a60c92de5b4bd.js": "/Adesiyan_Ayodapo/precache-manifest.e0057561a07a84382e5a60c92de5b4bd.js",
+    "service-worker.js": "/Adesiyan_Ayodapo/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/Adesiyan_Ayodapo/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/Adesiyan_Ayodapo/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.8b9fcb0d.chunk.js.LICENSE.txt": "/Adesiyan_Ayodapo/static/js/2.8b9fcb0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f79b4db.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.8b9fcb0d.chunk.js",
+    "static/css/main.db6f0745.chunk.css",
+    "static/js/main.6f81f6f1.chunk.js"
+  ]
+}
