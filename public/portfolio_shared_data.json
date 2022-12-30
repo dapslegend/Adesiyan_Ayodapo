@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Adesiyan Ayodapo",
+      "titles": [ "Cyber Security Expert", "Data Scientist", "Mobile App Developer", "Web Developer" ],
       "social": [
         {
           "name": "github",
@@ -24,8 +24,8 @@
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "JAVA",
+          "class": "devicon-java-plain-wordmark",
           "level": "95"
         },
         {
@@ -34,8 +34,8 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Python",
+          "class": "devicon-python-plain colored",
           "level": "90"
         },
         {
@@ -44,9 +44,9 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "PHP",
+          "class": "devicon-php-plain colored",
+          "level": "95"
         },
         {
           "name": "Bootstrap",
