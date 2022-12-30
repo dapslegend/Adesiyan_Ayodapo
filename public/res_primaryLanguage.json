@@ -68,16 +68,16 @@
         ],
         "technologies": [
           {
-            "class": "devicon-php-plain colored",
-            "name": "PHP"
+            "class": "devicon-pytorch-original colored",
+            "name": "Pytorch"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain colored",
+            "name": "Python"
           },
            {
-            "class": "devicon-github-original colored",
-            "name": "GitHub"
+            "class": "devicon-pytest-plain colored",
+            "name": "Pytest"
           }
         ]
       }

@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Electronic Human Nutriton Analyzer (Data Science Approach)",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The cost of healthcare in our reality is on the horizon but Lets Imagine a future of free Advanced Nutritonal healthcare; You Pick up your phone and you open a mobile or web application that tells you just the Right food to eat in the right proportions based on your wants and body needs. Your body needs is constant you either need more protein or less carbohydrate or more fat there are mathematical formulars for this, Your wants however changes because you may be fat and need less carbohydrate but you want to eat a fatty food because you absolutely love it. The Data Science Approach helps find a balance between what you want and what you need, So its for Everyone. ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -35,83 +35,87 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Netflix Phishing",
+        "startDate": "2021",
+        "description": "For this CyberSecrity Project I cloned Netflix A Tech Giant that has been in existence since 1998 and explored a common flaw; Phishing. Phishing exists and is increasing all over the world, This Project is for education Purposes Only as it was only deployed on Localhost, However the only effect measure to take against This is to add 2fa to your Account. ",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/dapslegend/Netflix-Phishing",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-php-plain colored",
+            "name": "PHP"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+           {
+            "class": "devicon-github-original colored",
+            "name": "GitHub"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Spam Email Prediction Using Machine Learning",
+        "startDate": "Present",
+        "description": "The Fbi Reported in 2022 that  potential losses of Business Email Compromise exceeds $6.9 billion. Most of the BEC attacks are caused by spam messages. Spam messages refer to unsolicited or unwanted messages/emails that are sent in bulk to users. In most messaging/emailing services, messages are detected as spam automatically so that these messages do not unnecessarily flood the users’ inboxes. These messages are usually promotional and peculiar in nature. Thus, it is possible for to build ML/DL models that can detect all forms of Spam messages.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-pytorch-original colored",
+            "name": "Pytorch"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain colored",
+            "name": "Python"
           },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+           {
+            "class": "devicon-pytest-plain colored",
+            "name": "Pytest"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Cooperative Mortgage Bank",
+        "title": "Internship",
+        "years": "1.2019 - 6.2019",
         "mainTech": [
-          "Angular 8/9/10"
+          "Wordpress 6/5.6/5.0"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Ajax",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "PHP",
+          "Mysql",
+          "Andriod Studio",
+          "Wordpress"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Freelancer",
+        "title": "Back-End Developer",
+        "years": "01.2020 - present",
         "mainTech": [
-          "Angular 7/8"
+          "PHP 7",
+          "Python 3.6"
         ],
         "technologies": [
-          "RxJS",
+          "Mysql",
+          "Python",
           "Django",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Ajax"
         ]
       }
     ]
