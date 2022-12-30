@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "I'm Adesiyan Ayodapo. I have been working with Java and Python for 4 years now. I have a bachelor of Science Degree in Computer Science currently I'm working on getting a Masters in Data Science or CyberSecurity.  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Electronic Human Nutriton Analyzer (Data Science Approach)",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The cost of healthcare in our reality is on the horizon but Lets Imagine a future of free Advanced Nutritonal healthcare; You Pick up your phone and you open a mobile or web application that tells you just the Right food to eat in the right proportions based on your wants and body needs. Your body needs is constant you either need more protein or less carbohydrate or more fat there are mathematical formulars for this, Your wants however changes because you may be fat and need less carbohydrate but you want to eat a fatty food because you absolutely love it. The Data Science Approach helps find a balance between what you want and what you need, So its for Everyone. ",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +21,23 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain colored",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-java-plain colored",
+            "name": "Java"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mysql-plain-wordmark colored",
+            "name": "MySql"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Netflix Phishing",
+        "startDate": "2021",
+        "description": "For this CyberSecrity Project I cloned Netflix A Tech Giant that has been in existence since 1998 and explored a common flaw; Phishing. Phishing exists and is increasing all over the world, This Project is for education Purposes Only as it was only deployed on Localhost, However the only effect measure to take against This is to add 2fa to your Account. ",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -45,12 +45,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-php-plain colored",
+            "name": "PHP"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+           {
+            "class": "devicon-github-original colored",
+            "name": "GitHub"
           }
         ]
       },

@@ -1,16 +1,16 @@
 {
     "basic_info": {
       "name": "Adesiyan Ayodapo",
-      "titles": [ "Cyber Security Expert", "Data Scientist", "Mobile App Developer", "Web Developer" ],
+      "titles": [ "Back-End Developer", "Mobile App Developer", "Web Developer", "Ethical Hacker" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dapslegend",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/d4ps__",
           "class": "fab fa-instagram"
         }
       ],

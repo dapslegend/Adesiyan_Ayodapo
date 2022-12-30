@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
+import djangoIcon from '@iconify/icons-logos/django';
+import bootstrapIcon from '@iconify/icons-logos/bootstrap';
+import gitIcon from '@iconify/icons-logos/git-icon'
 import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
@@ -28,18 +31,18 @@ class About extends Component {
                   <img
                     height="250px"
                     src={profilepic}
-                    alt="Avatar placeholder"
+                    alt="Adesiyan Ayodapo's Picture"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={djangoIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={reactIcon}
+                    icon={gitIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={bootstrapIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
