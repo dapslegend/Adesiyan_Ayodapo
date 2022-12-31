@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Adesiyan_Ayodapo/precache-manifest.e0057561a07a84382e5a60c92de5b4bd.js"
+  "/Adesiyan_Ayodapo/precache-manifest.7388fbd7a77a822d21a5903584f40e62.js"
 );
 
 self.addEventListener('message', (event) => {
