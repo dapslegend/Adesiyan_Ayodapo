@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I'm Adesiyan Ayodapo. I have been working with Java and Python for 4 years now, I have a bachelor of Science Degree in Computer Science currently I'm working on getting a Masters in Data Science or CyberSecurity. My email is adesiyanayodapo@outlook.com.",
+      "description": "I'm Adesiyan Ayodapo. I have been working with Java,Python,Php,Nodejs for 10 years now. I have a bachelor of Science Degree in Computer Science currently I'm working on getting a Masters in computer science at University of new brunswick(SEPT. 2024).  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -85,10 +85,10 @@
     "experience": [
       {
         "company": "Cooperative Mortgage Bank",
-        "title": "Internship",
-        "years": "1.2019 - 6.2019",
+        "title": "Mobile App Developer",
+        "years": "1.2019 - PRESENT",
         "mainTech": [
-          "Wordpress 6/5.6/5.0"
+          "Andriod Studio/Flutter IOS"
         ],
         "technologies": [
           "REST API",
@@ -104,7 +104,7 @@
       {
         "company": "Freelancer",
         "title": "Back-End Developer",
-        "years": "01.2020 - present",
+        "years": "01.2020 - PRESENT",
         "mainTech": [
           "PHP 7",
           "Python 3.6"
