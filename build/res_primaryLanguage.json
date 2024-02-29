@@ -80,6 +80,31 @@
             "name": "Pytest"
           }
         ]
+      },
+       {
+        "title": "Mobile App Development",
+        "startDate": "Present",
+        "description": "This are my UI/UX designs for several Mobile app and web app projects that I have been involved in, A few of my projects have gone live on playstore and appstore, You can request them directly from me.",
+        "images": [
+          "images/portfolio/adventure/x3.png",
+          "images/portfolio/adventure/x1.png",
+          "images/portfolio/adventure/x4.png",
+          "images/portfolio/adventure/x2.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-androidstudio-plain colored",
+            "name": "Andriod Studio"
+          },
+          {
+            "class": "devicon-figma-plain colored",
+            "name": "Figma"
+          },
+           {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          }
+        ]
       }
     ],
     "experience": [
