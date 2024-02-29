@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I'm Adesiyan Ayodapo. I have been working with Java and Python for 4 years now, I have a bachelor of Science Degree in Computer Science currently I'm working on getting a Masters in Data Science or CyberSecurity. My email is adesiyanayodapo@outlook.com.",
+      "description": "I'm Adesiyan Ayodapo. I have been working with Java,Python,Php,Nodejs for 10 years now. I have a bachelor of Science Degree in Computer Science currently I'm working on getting a Masters in computer science at University of new brunswick(SEPT. 2024).  ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -80,15 +80,40 @@
             "name": "Pytest"
           }
         ]
+      },
+       {
+        "title": "Mobile App Development",
+        "startDate": "Present",
+        "description": "This are my UI/UX designs for several Mobile app and web app projects that I have been involved in, A few of my projects have gone live on playstore and appstore, You can request them directly from me.",
+        "images": [
+          "images/portfolio/adventure/x3.png",
+          "images/portfolio/adventure/x1.png",
+          "images/portfolio/adventure/x4.png",
+          "images/portfolio/adventure/x2.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-androidstudio-plain colored",
+            "name": "Andriod Studio"
+          },
+          {
+            "class": "devicon-figma-plain colored",
+            "name": "Figma"
+          },
+           {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          }
+        ]
       }
     ],
     "experience": [
       {
         "company": "Cooperative Mortgage Bank",
-        "title": "Internship",
-        "years": "1.2019 - 6.2019",
+        "title": "Mobile App Developer",
+        "years": "1.2019 - PRESENT",
         "mainTech": [
-          "Wordpress 6/5.6/5.0"
+          "Andriod Studio/Flutter IOS"
         ],
         "technologies": [
           "REST API",
@@ -104,7 +129,7 @@
       {
         "company": "Freelancer",
         "title": "Back-End Developer",
-        "years": "01.2020 - present",
+        "years": "01.2020 - PRESENT",
         "mainTech": [
           "PHP 7",
           "Python 3.6"
