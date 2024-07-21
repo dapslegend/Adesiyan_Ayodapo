@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Adesiyan_Ayodapo/static/css/main.4fd20e63.css",
-    "main.js": "/Adesiyan_Ayodapo/static/js/main.ebb78673.js",
+    "main.css": "/Adesiyan_Ayodapo/static/css/main.bb975096.css",
+    "main.js": "/Adesiyan_Ayodapo/static/js/main.8e9f1915.js",
     "index.html": "/Adesiyan_Ayodapo/index.html",
-    "main.4fd20e63.css.map": "/Adesiyan_Ayodapo/static/css/main.4fd20e63.css.map",
-    "main.ebb78673.js.map": "/Adesiyan_Ayodapo/static/js/main.ebb78673.js.map"
+    "main.bb975096.css.map": "/Adesiyan_Ayodapo/static/css/main.bb975096.css.map",
+    "main.8e9f1915.js.map": "/Adesiyan_Ayodapo/static/js/main.8e9f1915.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fd20e63.css",
-    "static/js/main.ebb78673.js"
+    "static/css/main.bb975096.css",
+    "static/js/main.8e9f1915.js"
   ]
 }
